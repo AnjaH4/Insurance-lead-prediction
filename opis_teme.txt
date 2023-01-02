@@ -1,0 +1,4 @@
+Title: Insurance Lead Prediction 
+Link to the dataset: https://www.kaggle.com/datasets/owaiskhan9654/health-insurance-lead-prediction-raw-data
+Description: It's a binary classification problem, where an insurance policiy is recommended to a person when they land on a webpage.
+The outcome is positive if the person fils up the application form.
